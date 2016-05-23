@@ -27,6 +27,6 @@ From Arthur C. Clarke's [The Nine Billion Names of God](https://en.wikipedia.org
 > ridiculous combinations. For example, no letter must occur more than three
 > times in succession.” 
 
-### DISCLAIMER ### 
+#### DISCLAIMER
 
 I am not responsible if the stars go out when you run this :)
